@@ -1,4 +1,8 @@
-# seqr tokenizer solr plugin
+# seqr-tokenizer 
+
+[![Build Status](https://travis-ci.org/NCBI-Hackathons/seqr-tokenizer.svg)](https://travis-ci.org/NCBI-Hackathons/seqr-tokenizer)
+
+seqr-tokenizer solr plugin
 
 ##usage: 
  
